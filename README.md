@@ -1,2 +1,2 @@
 # VideoPlay_Platform
-G40_VIDEOPLAY
+视频播放平台
